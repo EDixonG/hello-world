@@ -1,4 +1,4 @@
 # hello-world
-Tutorial repository
-This file was created to learn the technical use of GitHub as a repository program
-This text is to learn how to merge branches
+My name is Eric!
+I made this README while studying to become a Front-End developer. 
+I live in the United States, and I graduated from college in Indianapolis, IN. 
